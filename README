@@ -1,0 +1,12 @@
+# Nomor 1
+
+Sebuah toko roti memiliki stok roti yang ingin dijual. Penjualan toko roti ini dihitung selama 4 minggu/1 minggu.
+Penjualan per hari dalam 4 minggu memiliki jumlah yang berbeda. 
+Contoh, 4 minggu pertama penjualan rata-rata sebanyak 4 buah roti perhari. 4 minggu selanjutnya 5 roti per hari.
+Buatlah program dengan java untuk menghitung sisa roti selama 4 minggu. Input terdiri dari 2, yaitu stokAwal dan 
+rerata penjualan roti per hari. Output yang diharapkan adalah sisa stok setelah 4 minggu. Jika sisa stok 
+kurang dari 0, cetak angka -1.
+
+# Nomor 2
+Dengan menggunakan perulangan, cetaklah N buah perkalian 3 bilangan dari 1 hingga N. 
+Ketentuanya, N adalah bilangan bulat positif dari 2 sampai 20. Di luar range itu, program tidak akan menerima inputnya.
