@@ -6,7 +6,7 @@ public class TugasPerulangan2{
         Scanner input = new Scanner(System.in);
         int N  = input.nextInt();
 
-        if(N < 2 || N > 100){
+        if(N < 2 || N > 20){
             System.out.println(-1);
             
         }
