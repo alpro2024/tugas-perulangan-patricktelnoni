@@ -8,7 +8,14 @@ public class TugasPerulangan{
         int stokAwal = input.nextInt();
         int pembelianPerhari = input.nextInt();
         
+        for (int i = 0; i < 28; i++) {
+            stokAwal -= pembelianPerhari;
+        }
 
+        if(stokAwal < 0){
+            stokAwal = -1;
+        }
+  
         
         System.out.println(stokAwal);
     }
